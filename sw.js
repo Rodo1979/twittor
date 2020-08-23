@@ -9,7 +9,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 //Continiene todo lo que es necesario para la app
 // Aca se coloca el corazon de la app lo que se debe cargar lo mas rapido posible 
 const APP_SHELL =[
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
